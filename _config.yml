@@ -14,8 +14,8 @@ author: Onurkan Bakırcı
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://onurkanbakirci.github.io"
   About Me: "aboutme"
-  Author's home: "https://onurkanbakirci.github.io"
 
 # --- Logo --- #
 
