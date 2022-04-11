@@ -1,14 +1,19 @@
 ---
 layout: page
-title: About me
-#subtitle: Why you'd want to go on a date with me
+#title: About me
+subtitle: Onurkan Bakırcı
 ---
 
-My name is Onurkan Bakırcı. I am software developer. I working on especially .NET technologies and devops consepts.
+### Onurkan Bakırcı
+I am a software developer. I working on especially .NET technologies and DevOps consepts. Designed and developed SaaS applications. Prioritized documentation and readable codes. Technologies: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Building apps with .NET (Web API, MVC, Entity Framework, WPF, xUnit, MsUnit), Nodejs (ExpressJs)
+- Building frontend apps with ReactJs, NextJS Angular, HTML, CSS, Bootstrap
+- Cloud Computing with AWS EC2 
+- Git, Apache JMeter, Fiddler, Nginx, npm, Jekyll
+- CI/CD, k8s, Jenkins, Helm, Docker
+- OOP, AOP, TDD, CQRS, Mediator, N-Tier, SOLID Principles, Microservices
+- RabbitMQ, Consul, Ocelot, Elasticsearch
+- Prometheus, Grafana, Kibana
+- PostgreSQL, MySQL, Mongo, SQLite, Redis
+- Vagrant
