@@ -3,8 +3,6 @@ layout: page
 #title: About me
 subtitle: Onurkan Bakırcı
 ---
-
-### Onurkan Bakırcı
 I am a software developer. I working on especially .NET technologies and DevOps consepts. Designed and developed SaaS applications. Prioritized documentation and readable codes. Technologies: 
 
 - Building apps with .NET (Web API, MVC, Entity Framework, WPF, xUnit, MsUnit), Nodejs (ExpressJs)
