@@ -8,7 +8,7 @@ share-img: /assets/img/posts/github-packages/1.png
 tags: [github, githubpackages, nuget, dependencies]
 ---
 
-In this story, we try to experience packaging and deploying our custom library to Github Packages.
+In this story, **we** try to experience packaging and deploying our custom library to Github Packages.
 
 First thing first, why we need Github Packages? Generally we use Docker Hub, npm, NuGet or other third party package registries to store and manage our package or distribute our public packages for other developers usage. By using GitHub Packages, we centralize our software development in one place. We can also integrate GitHub Packages with GitHub APIs, GitHub Actions, and webhooks to create an end-to-end DevOps workflow.
 
